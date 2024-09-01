@@ -32,6 +32,12 @@
 
 [xingzhe-export-gpx](https://github.com/weaming/xingzhe-export-gpx) - [ :cn: ] 将行者骑行数据批量导出为GPX 格式。
 
-[GearAuto](https://www.gearaut.com/heatmap) - [ :cn: ] 免费将Strava骑行数据生成骑行热力图。
+[Gear Automator](https://www.gearaut.com/heatmap) - [ :cn: ] 免费将Strava骑行数据生成骑行热力图。
 
 [BikeLAB单车实验室](https://bikelab.cn/ai-bike-fitting/) - [ :cn: ] 一款基于人工智能的Fitting工具，通过上传骑行视频，自动生成骑行姿势分析报告。
+
+[BikeInsights](https://bikeinsights.com)
+
+[Intervals.icu](https://intervals.icu/) - [ :cn: ] 一个免费的训练分析工具，可以导入 Strava平台的数据，提供了更多的数据分析和图表。
+
+[Tapiriik](https://tapiriik.com/) - [ :cn: ] 一个用于各种平台之间同步运动数据的工具。
