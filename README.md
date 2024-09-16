@@ -9,14 +9,16 @@
 
 ## 目录
 
-- 社交与论坛（Social & Forums）
-- 新闻与媒体（News & Media）
-- 赛事与数据跟踪（Race & Data Tracking）
-- Strava 和 Garmin 相关工具（Strava & Garmin Tools）
-- 数据分析与可视化（Data Analysis & Visualization）
-- 训练与健康管理（Training & Fitness）
-- 路线与导航工具（Routes & Navigation）
-- 设备与零配件（Equipment & Components）
+- [图标含义介绍](#图标含义介绍)
+- [目录](#目录)
+- [社交与论坛（Social \& Forums）](#社交与论坛social--forums)
+- [新闻与媒体（News \& Media）](#新闻与媒体news--media)
+- [赛事与数据跟踪（Race \& Data Tracking）](#赛事与数据跟踪race--data-tracking)
+- [Strava 和 Garmin 相关工具（Strava \& Garmin Tools）](#strava-和-garmin-相关工具strava--garmin-tools)
+- [数据分析与可视化（Data Analysis \& Visualization）](#数据分析与可视化data-analysis--visualization)
+- [训练与健康管理（Training \& Fitness）](#训练与健康管理training--fitness)
+- [路线与导航工具（Routes \& Navigation）](#路线与导航工具routes--navigation)
+- [设备与零配件（Equipment \& Components）](#设备与零配件equipment--components)
 
 ## 社交与论坛（Social & Forums）
 
