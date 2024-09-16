@@ -36,8 +36,22 @@
 
 [BikeLAB单车实验室](https://bikelab.cn/ai-bike-fitting/) - [ :cn: ] 一款基于人工智能的Fitting工具，通过上传骑行视频，自动生成骑行姿势分析报告。
 
-[BikeInsights](https://bikeinsights.com)
+[BikeInsights](https://bikeinsights.com) - [ :cn: ] 一个数据丰富的自行车信息数据库，可以查询自行车的尺寸、几何、重量等信息。便于对比不同品牌和型号的自行车。
 
 [Intervals.icu](https://intervals.icu/) - [ :cn: ] 一个免费的训练分析工具，可以导入 Strava平台的数据，提供了更多的数据分析和图表。
 
 [Tapiriik](https://tapiriik.com/) - [ :cn: ] 一个用于各种平台之间同步运动数据的工具。
+
+[compare-the-watts](https://compare-the-watts.com/) - [ :cn: ] 一个比较不同功率计数据的工具，可以使用它评估不同功率计的一致性。
+
+[veloviewer](https://veloviewer.com/) - [ :cn:  :moneybag: ] 一个 Strava数据综合分析平台，更倾向于分析整体的数据，可以生成大环赛级别的海拔爬升图和3D路线图(Strava所有赛段免费)。
+
+[sanluca](https://sanluca.cc/) - [ :cn: ] 生成大环赛级别的海拔爬升图和路线图，免费支持上传自己的GPX路书文件。
+
+[bicyclerollingresistance](https://www.bicyclerollingresistance.com/) - [ :cn: ] 一个查询自行车轮胎滚阻、防刺、重量等的数据库网站。
+
+[gotoes](https://gotoes.org/) - [ :cn: ] 一个适用于FIT、TCX、GPX等轨迹文件的合并、修复、编辑的在线工具。
+
+[goldencheetah](https://github.com/goldencheetah/goldencheetah) - [ :cn: ] 一个极其专业的运动员管理训练分析的开源本地工具，可自定义程度极高，可以自动导入 Strava等平台的轨迹，还可以连接室内骑行台进行训练。
+
+[IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - [ :cn: ] 一个将IGPSPORT的骑行数据导入行者的工具。
