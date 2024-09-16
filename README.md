@@ -56,6 +56,9 @@
 
 - [BikeLAB 单车实验室](https://bikelab.cn/ai-bike-fitting/) - [ :cn: ] 基于人工智能的 Fitting 工具。
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - [ :cn: ] 一个极其专业的运动员管理训练分析的开源本地工具，可自定义程度极高，可以自动导入 Strava 等平台的轨迹，还可以连接室内骑行台进行训练。
+- [Zwift](https://www.zwift.com/) - [ :cn: :moneybag: ] 室内骑行平台，可以通过连接智能骑行台进行训练，提供了虚拟世界的骑行体验。
+- [ZwiftOffline](https://github.com/zoffline/zwift-offline) - [ :cn: ] 离线版 Zwift，可以在没有网络的情况下进行 Zwift 训练。
+- [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift的功能扩展工具，可以在骑行时查看更多的数据。
 
 ## 路线与导航工具（Routes & Navigation）
 
@@ -68,3 +71,4 @@
 - [Compare the Watts](https://compare-the-watts.com/) - [ :cn: ] 一个比较不同功率计数据的工具，可以使用它评估不同功率计的一致性。
 - [BikeInsights](https://bikeinsights.com) - [ :cn: ] 一个数据丰富的自行车信息数据库，可以查询自行车的尺寸、几何、重量等信息。便于对比不同品牌和型号的自行车。
 - [BicycleRollingResistance](https://www.bicyclerollingresistance.com/) - [ :cn: :moneybag: ] 一个查询自行车轮胎滚阻、防刺、重量等的数据库网站。
+- [GearCalculator](https://gear-calculator.com/) - [ :cn: ] 一个用于计算自行车变速比、齿轮比和传动比的网站。通过输入自行车的齿盘、飞轮齿数、轮胎尺寸等参数，骑行者可以直观地看到不同齿轮组合下的速度、踏频、以及每次踏动的距离。
