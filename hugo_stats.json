@@ -20,6 +20,7 @@
       "head",
       "header",
       "html",
+      "img",
       "input",
       "kbd",
       "label",
@@ -30,6 +31,7 @@
       "meta",
       "nav",
       "noscript",
+      "ol",
       "p",
       "path",
       "script",
@@ -217,6 +219,13 @@
       "buttonColorMode",
       "doks-docs-nav",
       "further-reading",
+      "h-rh-i-0",
+      "h-rh-i-1",
+      "h-rh-i-2",
+      "h-rh-i-3",
+      "h-rh-i-4",
+      "h-rh-i-5",
+      "h-rh-i-6",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
@@ -229,7 +238,9 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "socialMenu",
-      "toc"
+      "toc",
+      "使用介绍",
+      "安装工具"
     ]
   }
 }
