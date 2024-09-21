@@ -14,6 +14,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
+
+GearAutomator 是[XiaoSiHwang](https://github.com/XiaoSiHwang)开发的一款可以生成 Strava 运动热图以及天气卡片的工具。
+
 ## 同步 Strava 数据
 
 GearAutomator 是一个可以生成 Strava 运动热图和天气卡片的工具，访问 [GearAutomator](https://www.gearaut.com)，点击的`Connect with Strava`按钮，然后输入 Strava 的用户名和密码登录。
@@ -47,44 +50,83 @@ Strava 订阅用户可以生成每次运动的天气卡片，可以在运动简�
 你可以直接复制下面的文本，替换即可：
 
 ```yaml
-温度: ${temperature}  
-体感温度: ${apparentTemperature}  
-天气状况: ${skyCon}  
-湿度: ${humidity}  
-气压: ${pressure}  
-云量: ${cloudRate}  
-风速: ${windSpeed}  
-能见度: ${visibility}  
-空气质量:  
-    空气质量指数(AQI): ${aqi}  
-    细颗粒物(PM2.5): ${pm25}  
-    可吸入颗粒物(PM10): ${pm10}  
-    臭氧(O3): ${o3}  
-    二氧化硫(SO2): ${so2}  
-    二氧化氮(NO2): ${no2}  
-    一氧化碳(CO): ${co}  
-紫外线强度(UV): ${uv}  
+温度: ${temperature}
+体感温度: ${apparentTemperature}
+天气状况: ${skyCon}
+湿度: ${humidity}
+气压: ${pressure}
+云量: ${cloudRate}
+风速: ${windSpeed}
+能见度: ${visibility}
+空气质量:
+    空气质量指数(AQI): ${aqi}
+    细颗粒物(PM2.5): ${pm25}
+    可吸入颗粒物(PM10): ${pm10}
+    臭氧(O3): ${o3}
+    二氧化硫(SO2): ${so2}
+    二氧化氮(NO2): ${no2}
+    一氧化碳(CO): ${co}
+紫外线强度(UV): ${uv}
 地面接收的太阳辐射(DSWRF): ${dswrf}
 ```
 
 ```yaml
-温度: ${startTemperature} - ${endTemperature}  
-体感温度: ${startApparentTemperature} - ${endApparentTemperature}  
-天气状况: ${startSkyCon} - ${endSkyCon}  
-湿度: ${startHumidity} - ${endHumidity}  
-气压: ${startPressure} - ${endPressure}  
-云量: ${startCloudRate} - ${endCloudRate}  
-风速: ${startWindSpeed} - ${endWindSpeed}  
-能见度: ${startVisibility} - ${endVisibility}  
+温度: ${startTemperature} - ${endTemperature}
+体感温度: ${startApparentTemperature} - ${endApparentTemperature}
+天气状况: ${startSkyCon} - ${endSkyCon}
+湿度: ${startHumidity} - ${endHumidity}
+气压: ${startPressure} - ${endPressure}
+云量: ${startCloudRate} - ${endCloudRate}
+风速: ${startWindSpeed} - ${endWindSpeed}
+能见度: ${startVisibility} - ${endVisibility}
 
-空气质量:  
-    空气质量指数(AQI): ${startAqi} - ${endAqi}  
-    细颗粒物(PM2.5): ${startPM25} - ${endPM25}  
-    可吸入颗粒物(PM10): ${startPM10} - ${endPM10}  
-    臭氧(O3): ${startO3} - ${endO3}  
-    二氧化硫(SO2): ${startSO2} - ${endSO2}  
-    二氧化氮(NO2): ${startNO2} - ${endNO2}  
-    一氧化碳(CO): ${startCO} - ${endCO}  
-紫外线强度(UV): ${startUV} - ${endUV}  
+空气质量:
+    空气质量指数(AQI): ${startAqi} - ${endAqi}
+    细颗粒物(PM2.5): ${startPM25} - ${endPM25}
+    可吸入颗粒物(PM10): ${startPM10} - ${endPM10}
+    臭氧(O3): ${startO3} - ${endO3}
+    二氧化硫(SO2): ${startSO2} - ${endSO2}
+    二氧化氮(NO2): ${startNO2} - ${endNO2}
+    一氧化碳(CO): ${startCO} - ${endCO}
+紫外线强度(UV): ${startUV} - ${endUV}
 地面接收的太阳辐射(DSWRF): ${startDswrf} - ${endDswrf}
 ```
+
+## Strava IFTTT 自动化工具
+
+该功能可以根据设定的一些场景条件自动触发一些Strava的操作。点击左侧菜单栏Strava IFTTT，点击新建，可以看到如下页面，在此可以创建自己的自动化规则。接下来我会举例介绍该功能的使用。
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2024/09/21/2ce1c390f26689fdcb17f95672cbc6df.png)
+
+### 骑行运动时，自动在标题前添加骑行表情
+
+> 表情包可以从[getemoji网站](https://getemoji.com/)查找复制粘贴进去。
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2024/09/21/3b79406262b6742b84eeaf4e9a723a1b.png)
+
+1. 填写自动化名称：标题添加骑行图标
+2. 设置字段条件：运动类型-包含-骑行，虚拟骑行，山地骑行，公路骑行
+3. 点击新增Action
+4. 选择：在原始标题前
+5. 文本框中输入复制来的自行车表情包
+6. 关闭文本框
+7. 滑动页面底部，点击保存
+8. 显示下图表示创建成功
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2024/09/21/d7557b1af2dd3482725fc7d2562e0a7a.png)
+
+当我们有新的骑行运动数据产生时，会自动在标题前添加骑行表情。
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2024/09/21/fb23e8074556416d7a6296043d434ddd.png)
+
+### 配速达到4分/km时，将Strava的装备设置为指定跑鞋
+
+1. 填写自动化名称：配速小于4分换跑鞋
+2. 设置字段条件：平均配速 - 小于 - 4
+3. 点击新增Action
+4. 选择：装备 - 选择想要切换的装备
+5. 滑动页面底部，点击保存
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2024/09/21/98a107b5a3b760987a94dfb02b4a81d8.png)
+
+当下次新增的跑步数据配速小于4分时，会自动将装备设置为指定的跑鞋。
