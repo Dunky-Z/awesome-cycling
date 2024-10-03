@@ -31,6 +31,7 @@
 - [Bike Radar](http://www.bikeradar.com/) - 自行车新闻和评论。
 - [Cycling Weekly](http://www.cyclingweekly.co.uk/) - 自行车新闻和评论。
 - [Pink Bike](http://www.pinkbike.com/) - 自行车新闻和评论。
+- [LanterneRouge](https://lanternerouge.com/) - 自行车新闻和评论，根据大环赛爬坡表现对车手的W/Kg进行估计。
 
 ## 赛事与数据跟踪（Race & Data Tracking）
 
@@ -60,6 +61,7 @@
 - [ZwiftOffline](https://github.com/zoffline/zwift-offline) - [ :cn: ] 离线版 Zwift，可以在没有网络的情况下进行 Zwift 训练。
 - [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
+- [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的gpx路书文献生成三维地形画面，需要连接功率骑行台
 
 ## 路线与导航工具（Routes & Navigation）
 
