@@ -58,7 +58,7 @@
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - [ :cn: ] 一个极其专业的运动员管理训练分析的开源本地工具，可自定义程度极高，可以自动导入 Strava 等平台的轨迹，还可以连接室内骑行台进行训练。
 - [Zwift](https://www.zwift.com/) - [ :cn: :moneybag: ] 室内骑行平台，可以通过连接智能骑行台进行训练，提供了虚拟世界的骑行体验。
 - [ZwiftOffline](https://github.com/zoffline/zwift-offline) - [ :cn: ] 离线版 Zwift，可以在没有网络的情况下进行 Zwift 训练。
-- [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift的功能扩展工具，可以在骑行时查看更多的数据。
+- [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift 的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
 
 ## 路线与导航工具（Routes & Navigation）

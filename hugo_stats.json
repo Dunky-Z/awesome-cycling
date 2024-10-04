@@ -5,6 +5,7 @@
       "article",
       "aside",
       "base",
+      "blockquote",
       "body",
       "button",
       "circle",
@@ -255,11 +256,13 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "socialMenu",
+      "strava-ifttt-自动化工具",
       "toc",
       "下载编译",
       "使用介绍",
       "使用指南",
       "使用方法",
+      "分析结果",
       "功能介绍",
       "同步-strava-数据",
       "安装工具",
@@ -269,7 +272,9 @@
       "获取cookie",
       "获取userid",
       "配置config",
-      "配置天气卡片"
+      "配置天气卡片",
+      "配速达到4分km时将strava的装备设置为指定跑鞋",
+      "骑行运动时自动在标题前添加骑行表情"
     ]
   }
 }
