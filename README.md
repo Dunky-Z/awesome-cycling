@@ -68,6 +68,8 @@
 - [IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - [ :cn: ] IGPSPORT 骑行数据导入行者工具。
 - [xingzhe-export-gpx](https://github.com/weaming/xingzhe-export-gpx) - [ :cn: ] 将行者骑行数据批量导出为 GPX 格式。
 - [GOTOES](https://gotoes.org/) - [ :cn: ] GPX、FIT、TCX 轨迹文件编辑工具。
+- [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - 基于C语言开发，采用ESP32S3R8板的开源GPS自行车码表。
+- [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - 开源GPS自行车码表。
 
 ## 设备与零配件（Equipment & Components）
 
