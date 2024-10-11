@@ -77,3 +77,4 @@
 - [BikeInsights](https://bikeinsights.com) - [ :cn: ] 一个数据丰富的自行车信息数据库，可以查询自行车的尺寸、几何、重量等信息。便于对比不同品牌和型号的自行车。
 - [BicycleRollingResistance](https://www.bicyclerollingresistance.com/) - [ :cn: :moneybag: ] 一个查询自行车轮胎滚阻、防刺、重量等的数据库网站。
 - [GearCalculator](https://gear-calculator.com/) - [ :cn: ] 一个用于计算自行车变速比、齿轮比和传动比的网站。通过输入自行车的齿盘、飞轮齿数、轮胎尺寸等参数，骑行者可以直观地看到不同齿轮组合下的速度、踏频、以及每次踏动的距离。
+- [ZwiftBikes](https://zwifterbikes.web.app/) - [ :cn: ] 一个查询 Zwift 游戏中自行车的数据的网站，可以查询自行车的重量、空气动力学系数等信息。设定个人体能数据后，可以计算出不同自行车在不同地图中的性能表现。
