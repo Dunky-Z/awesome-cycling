@@ -44,7 +44,11 @@
 - [DailySync](https://gitlab.com/gooin/dailysync) - [ :cn: ] 一个可以将 Strava 数据同步到 Garmin Connect 的工具。打通佳明中国区与国际区，您的骑行/跑步数据时刻保持同步。
 - [GCW and Strava Kudo All](https://github.com/Likenttt/gcw-strava-kudo-all) - [ :cn: ] 一款浏览器插件，用于在 GCW（Garmin Connect Web）和 Strava 中一键批量点赞。
 - [GCW Enhancement](https://chromewebstore.google.com/detail/gcw-enhancement/kekllebheolphbonigihnnbakpobfcpo) - [ :cn: ] 一款浏览器插件，用于导入导出 Garmin Connect Web 的训练数据。
-
+- [Sauce for Strava](https://www.sauce.llc/)  - [ :cn: ] Strava 增强工具，一款浏览器插件，将Strava网页界面增强提供了更多的数据分析功能，亮点功能是可以进行指定赛段的功率估算，其它功能也非常实用。
+- [mywindsock](https://mywindsock.com/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在Strava活动备注中提供活动的天气报告，最重要的是风向的影响，也可通过网页提前预估路书的风向，付费获得更多功能。
+- [Riduck](https://riduck.com/)  - [ :cn: ] Strava 增强工具 | 数据分析平台，绑定后自动在Strava活动备注中提供活动的功率心理报告，也可通过网页进行数据综合分析，数据全面度低于Intervals.icu，但其估计的FTP,VO2MAX更具指导意义。
+- [klimat](https://klimat.app/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在Strava活动备注中提供活动的天气报告，只能免费90个活动。
+- 
 ## 数据分析与可视化（Data Analysis & Visualization）
 
 - [Gear Automator](https://www.gearaut.com/heatmap) - [ :cn: ] Strava 数据生成骑行热力图工具。
@@ -59,13 +63,14 @@
 - [BikeLAB 单车实验室](https://bikelab.cn/ai-bike-fitting/) - [ :cn: ] 基于人工智能的 Fitting 工具。
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - [ :cn: ] 一个极其专业的运动员管理训练分析的开源本地工具，可自定义程度极高，可以自动导入 Strava 等平台的轨迹，还可以连接室内骑行台进行训练。
 - [Zwift](https://www.zwift.com/) - [ :cn: :moneybag: ] 室内骑行平台，可以通过连接智能骑行台进行训练，提供了虚拟世界的骑行体验。
-- [ZwiftOffline](https://github.com/zoffline/zwift-offline) - [ :cn: ] 离线版 Zwift，可以在没有网络的情况下进行 Zwift 训练。
+- [ZwiftOffline](https://github.com/zoffline/zwift-offline) - [ :en: ] 离线版 Zwift，社区自制的Zwift的server端，可以在没有网络的情况下进行 Zwift 课程或路线训练，多平台支持。
 - [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift 的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
 - [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的gpx路书文献生成三维地形画面，需要连接功率骑行台
 
 ## 路线与导航工具（Routes & Navigation）
 
+- [Komoot](https://www.komoot.com/) - [ :en: :moneybag: ] 专业的骑行路书规划编辑平台，优秀的路径规划，多平台支持，但国内部分地图路网较旧。
 - [IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - [ :cn: ] IGPSPORT 骑行数据导入行者工具。
 - [xingzhe-export-gpx](https://github.com/weaming/xingzhe-export-gpx) - [ :cn: ] 将行者骑行数据批量导出为 GPX 格式。
 - [GOTOES](https://gotoes.org/) - [ :cn: ] GPX、FIT、TCX 轨迹文件编辑工具。
@@ -79,3 +84,4 @@
 - [BicycleRollingResistance](https://www.bicyclerollingresistance.com/) - [ :cn: :moneybag: ] 一个查询自行车轮胎滚阻、防刺、重量等的数据库网站。
 - [GearCalculator](https://gear-calculator.com/) - [ :cn: ] 一个用于计算自行车变速比、齿轮比和传动比的网站。通过输入自行车的齿盘、飞轮齿数、轮胎尺寸等参数，骑行者可以直观地看到不同齿轮组合下的速度、踏频、以及每次踏动的距离。
 - [ZwifterBikes](https://zwifterbikes.web.app/) - [ :cn: ] 一个查询 Zwift 游戏中自行车的数据的网站，可以查询自行车的重量、空气动力学系数等信息。设定个人体能数据后，可以计算出不同自行车在不同地图中的性能表现。
+- [自行车计算器](https://pan.baidu.com/s/1gdmoQCr) - [ :cn: ]  一个Windows应用程序，用以计算齿比和辐条长度等，内置有常用传动套件、外胎的数据库，简单易用，更直观地看到不同齿轮组合下的速度、踏频，国内论坛77bike的大佬制作。
