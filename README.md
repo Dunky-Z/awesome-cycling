@@ -50,7 +50,7 @@
 - [mywindsock](https://mywindsock.com/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在Strava活动备注中提供活动的天气报告，最重要的是风向的影响，也可通过网页提前预估路书的风向，付费获得更多功能。
 - [Riduck](https://riduck.com/)  - [ :cn: ] Strava 增强工具 | 数据分析平台，绑定后自动在Strava活动备注中提供活动的功率心理报告，也可通过网页进行数据综合分析，数据全面度低于Intervals.icu，但其估计的FTP,VO2MAX更具指导意义。
 - [klimat](https://klimat.app/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在Strava活动备注中提供活动的天气报告，只能免费90个活动。
-- 
+-
 ## 数据分析与可视化（Data Analysis & Visualization）
 
 - [Gear Automator](https://www.gearaut.com/heatmap) - [ :cn: ] Strava 数据生成骑行热力图工具。
@@ -69,6 +69,7 @@
 - [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift 的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
 - [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的gpx路书文献生成三维地形画面，需要连接功率骑行台
+- [Indievelo](https://indievelo.com/) - [ :cn: ] 室内骑行平台，有独特的天气系统，风速风向都会影响骑行表现，目前可免费使用。
 
 ## 路线与导航工具（Routes & Navigation）
 
