@@ -2,6 +2,8 @@
 
 收集与骑行相关的网站与工具。
 
+部分网站和工具有详细使用文档，可以访问[Welcome to Awesome Cycling](https://lifeislife.cn/awesome-cycling/)参考。
+
 ## 图标含义介绍
 
 - :cn: - 表示对中国大陆地区开放的资源。
