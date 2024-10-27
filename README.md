@@ -33,7 +33,7 @@
 - [Bike Radar](http://www.bikeradar.com/) - 自行车新闻和评论。
 - [Cycling Weekly](http://www.cyclingweekly.co.uk/) - 自行车新闻和评论。
 - [Pink Bike](http://www.pinkbike.com/) - 自行车新闻和评论。
-- [LanterneRouge](https://lanternerouge.com/) - 自行车新闻和评论，根据大环赛爬坡表现对车手的W/Kg进行估计。
+- [LanterneRouge](https://lanternerouge.com/) - 自行车新闻和评论，根据大环赛爬坡表现对车手的 W/Kg 进行估计。
 
 ## 赛事与数据跟踪（Race & Data Tracking）
 
@@ -46,11 +46,11 @@
 - [DailySync](https://gitlab.com/gooin/dailysync) - [ :cn: ] 一个可以将 Strava 数据同步到 Garmin Connect 的工具。打通佳明中国区与国际区，您的骑行/跑步数据时刻保持同步。
 - [GCW and Strava Kudo All](https://github.com/Likenttt/gcw-strava-kudo-all) - [ :cn: ] 一款浏览器插件，用于在 GCW（Garmin Connect Web）和 Strava 中一键批量点赞。
 - [GCW Enhancement](https://chromewebstore.google.com/detail/gcw-enhancement/kekllebheolphbonigihnnbakpobfcpo) - [ :cn: ] 一款浏览器插件，用于导入导出 Garmin Connect Web 的训练数据。
-- [Sauce for Strava](https://www.sauce.llc/)  - [ :cn: ] Strava 增强工具，一款浏览器插件，将Strava网页界面增强提供了更多的数据分析功能，亮点功能是可以进行指定赛段的功率估算，其它功能也非常实用。
-- [mywindsock](https://mywindsock.com/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在Strava活动备注中提供活动的天气报告，最重要的是风向的影响，也可通过网页提前预估路书的风向，付费获得更多功能。
-- [Riduck](https://riduck.com/)  - [ :cn: ] Strava 增强工具 | 数据分析平台，绑定后自动在Strava活动备注中提供活动的功率心理报告，也可通过网页进行数据综合分析，数据全面度低于Intervals.icu，但其估计的FTP,VO2MAX更具指导意义。
-- [klimat](https://klimat.app/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在Strava活动备注中提供活动的天气报告，只能免费90个活动。
--
+- [Sauce for Strava](https://www.sauce.llc/)  - [ :cn: ] Strava 增强工具，一款浏览器插件，将 Strava 网页界面增强提供了更多的数据分析功能，亮点功能是可以进行指定赛段的功率估算，其它功能也非常实用。
+- [mywindsock](https://mywindsock.com/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在 Strava 活动备注中提供活动的天气报告，最重要的是风向的影响，也可通过网页提前预估路书的风向，付费获得更多功能。
+- [Riduck](https://riduck.com/)  - [ :cn: ] Strava 增强工具 | 数据分析平台，绑定后自动在 Strava 活动备注中提供活动的功率心理报告，也可通过网页进行数据综合分析，数据全面度低于 Intervals.icu，但其估计的 FTP,VO2MAX 更具指导意义。
+- [klimat](https://klimat.app/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在 Strava 活动备注中提供活动的天气报告，只能免费 90 个活动。
+
 ## 数据分析与可视化（Data Analysis & Visualization）
 
 - [Gear Automator](https://www.gearaut.com/heatmap) - [ :cn: ] Strava 数据生成骑行热力图工具。
@@ -65,10 +65,10 @@
 - [BikeLAB 单车实验室](https://bikelab.cn/ai-bike-fitting/) - [ :cn: ] 基于人工智能的 Fitting 工具。
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - [ :cn: ] 一个极其专业的运动员管理训练分析的开源本地工具，可自定义程度极高，可以自动导入 Strava 等平台的轨迹，还可以连接室内骑行台进行训练。
 - [Zwift](https://www.zwift.com/) - [ :cn: :moneybag: ] 室内骑行平台，可以通过连接智能骑行台进行训练，提供了虚拟世界的骑行体验。
-- [ZwiftOffline](https://github.com/zoffline/zwift-offline) - [ :en: ] 离线版 Zwift，社区自制的Zwift的server端，可以在没有网络的情况下进行 Zwift 课程或路线训练，多平台支持。
+- [ZwiftOffline](https://github.com/zoffline/zwift-offline) - [ :en: ] 离线版 Zwift，社区自制的 Zwift 的 server 端，可以在没有网络的情况下进行 Zwift 课程或路线训练，多平台支持。
 - [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift 的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
-- [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的gpx路书文献生成三维地形画面，需要连接功率骑行台
+- [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的 gpx 路书文献生成三维地形画面，需要连接功率骑行台
 - [Indievelo](https://indievelo.com/) - [ :cn: ] 室内骑行平台，有独特的天气系统，风速风向都会影响骑行表现，目前可免费使用。
 
 ## 路线与导航工具（Routes & Navigation）
@@ -77,8 +77,8 @@
 - [IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - [ :cn: ] IGPSPORT 骑行数据导入行者工具。
 - [xingzhe-export-gpx](https://github.com/weaming/xingzhe-export-gpx) - [ :cn: ] 将行者骑行数据批量导出为 GPX 格式。
 - [GOTOES](https://gotoes.org/) - [ :cn: ] GPX、FIT、TCX 轨迹文件编辑工具。
-- [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - 基于C语言开发，采用ESP32S3R8板的开源GPS自行车码表。
-- [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - 开源GPS自行车码表。
+- [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - 基于 C 语言开发，采用 ESP32S3R8 板的开源 GPS 自行车码表。
+- [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - 开源 GPS 自行车码表。
 
 ## 设备与零配件（Equipment & Components）
 
@@ -87,4 +87,4 @@
 - [BicycleRollingResistance](https://www.bicyclerollingresistance.com/) - [ :cn: :moneybag: ] 一个查询自行车轮胎滚阻、防刺、重量等的数据库网站。
 - [GearCalculator](https://gear-calculator.com/) - [ :cn: ] 一个用于计算自行车变速比、齿轮比和传动比的网站。通过输入自行车的齿盘、飞轮齿数、轮胎尺寸等参数，骑行者可以直观地看到不同齿轮组合下的速度、踏频、以及每次踏动的距离。
 - [ZwifterBikes](https://zwifterbikes.web.app/) - [ :cn: ] 一个查询 Zwift 游戏中自行车的数据的网站，可以查询自行车的重量、空气动力学系数等信息。设定个人体能数据后，可以计算出不同自行车在不同地图中的性能表现。
-- [自行车计算器](https://pan.baidu.com/s/1gdmoQCr) - [ :cn: ]  一个Windows应用程序，用以计算齿比和辐条长度等，内置有常用传动套件、外胎的数据库，简单易用，更直观地看到不同齿轮组合下的速度、踏频，国内论坛77bike的大佬制作。
+- [自行车计算器](https://pan.baidu.com/s/1gdmoQCr) - [ :cn: ]  一个 Windows 应用程序，用以计算齿比和辐条长度等，内置有常用传动套件、外胎的数据库，简单易用，更直观地看到不同齿轮组合下的速度、踏频，国内论坛 77bike 的大佬制作。
