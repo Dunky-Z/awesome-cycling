@@ -19,7 +19,8 @@ seo:
 ## 安装 ZwiftOffline
 
 - 从[GitHub Release 页面](https://github.com/zoffline/zwift-offline/releases/latest)下载最新的 zoffline 发布版。
-- 找一个目录用于运行 Zwift offline，我新建了一个`zwiftoffline`目录，保存刚刚下载的`exe`文件，然后运行你下载的 zoffline.exe。一旦运行，zoffline 会在其所在的相同文件夹中创建一个`storage`目录，用以保存你的 Zwift 进度。
+- 找一个目录用于运行 Zwift offline，我新建了一个`zwiftoffline`目录，保存刚刚下载的`exe`文件，然后运行你下载的 zoffline.exe。一旦运行，zoffline 会在其所在的相同文件夹中创建一个`storage`目录，用以保存你的 Zwift 进度。生成`storage`目录后，按`Ctrl+C`关闭 zoffline，稍后还有其他配置。
+  - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/10/ed838fae543dc8d607c231d89fc4888b.png)
 - 从[GitHub Rlease](https://github.com/oldnapalm/zoffline-helper/releases/latest)下载配置脚本等文件，将其也解压到`zwiftoffline`目录。
 - 进入`zwiftoffline/zoffline-helper`目录，右键点击`configure_client.bat`，选择以管理员身份运行。这个脚本会自动配置 zoffline，以便你可以在本地运行 Zwift。
   - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/6769deefaa7c142c42411a43af345e8d.png)
