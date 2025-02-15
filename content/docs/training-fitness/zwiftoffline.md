@@ -66,3 +66,13 @@ seo:
 ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/84b0932cd611d78a1497f82aafa86fb7.png)
 
 ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/2457689c2493d63ffa77e465948d3d84.png)
+
+## 上传训练课程
+
+虽然Zwift有很多训练课程，但是我还是习惯在Intervals ICU上创建好自己的课程，然后上传到Zwift。虽然Intervals ICU上的课程可以直接同步到Zwift，但是单机版的没法同步这些课程，所以只能手动上传。
+
+具体如何创建课程我就不多说了，这里假设你已经有了一系列`.zwo`训练课程文件，那么你只需要将其保存到`Documents/Zwift/Workouts/1`目录下即可：
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/15/f18d29b2d3e548bf2fe0878d54b2f45f.png)
+
+> 注意哦，不是运行目录下的`zwiftoffline\storage\1\customworkouts`哦，开始我自作聪明把课程放到这个目录下，结果发现上传不了，后来才发现是放错了。
