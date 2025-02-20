@@ -19,17 +19,23 @@ seo:
 ## 安装 ZwiftOffline
 
 - 从[GitHub Release 页面](https://github.com/zoffline/zwift-offline/releases/latest)下载最新的 zoffline 发布版。
-- 找一个目录用于运行 Zwift offline，我新建了一个`zwiftoffline`目录，保存刚刚下载的`exe`文件，然后运行你下载的 zoffline.exe。一旦运行，zoffline 会在其所在的相同文件夹中创建一个`storage`目录，用以保存你的 Zwift 进度。生成`storage`目录后，按`Ctrl+C`关闭 zoffline，稍后还有其他配置。
+- 找一个目录用于运行 Zwift offline，我新建了一个`zwiftoffline`目录，保存刚刚下载的`exe`文件，然后运行你下载的 zoffline.exe。一旦运行，zoffline 会在其所在的相同文件夹中创建一个`storage`目录，用以保存你的 Zwift 进度。生成`storage`目录后，按`Ctrl+C`先关闭 zoffline，稍后还有其他配置。
   - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/10/ed838fae543dc8d607c231d89fc4888b.png)
-- 从[GitHub Rlease](https://github.com/oldnapalm/zoffline-helper/releases/latest)下载配置脚本等文件，将其也解压到`zwiftoffline`目录。
-- 进入`zwiftoffline/zoffline-helper`目录，右键点击`configure_client.bat`，选择以管理员身份运行。这个脚本会自动配置 zoffline，以便你可以在本地运行 Zwift。
-  - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/6769deefaa7c142c42411a43af345e8d.png)
-- 前往[Zwift 官网](https://www.zwift.com/)，拉到页面底部，可以看到安装链接，安装 Zwift 软件。
+- 前往[Zwift 官网](https://www.zwift.com/)，拉到页面底部，可以看到安装链接，安装 Zwift 软件。记住安装的路径，我安装在了`C:\Program Files (x86)\Zwift`。
   - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/734f7507b1e68958bba2ea2525216752.png)
+- 运行 Zwift，这时候客户端会开始更新，因为安装的只是一个登录器，游戏本体还需要下载。**一定要安装之后就执行这一步，因为后续的配置会改变网络配置，导致无法下载游戏本体。**
+- 从[GitHub Rlease](https://github.com/oldnapalm/zoffline-helper/releases/latest)下载配置脚本等文件`zoffline-helper.zip`，将其也解压到`zwiftoffline`目录。
+- 进入`zwiftoffline/zoffline-helper`目录，右键点击`configure_client.bat`，选择以管理员身份运行。这个脚本会自动配置 zoffline，以便你可以在本地运行 Zwift。期间会弹窗让你选择Zwift目录，就是之前需要记住的安装目录：
+  - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/19/52b44adfe177bde733156c3d2faefe5e.png)
+  - 最终运行完的结果如下：
+  - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/6769deefaa7c142c42411a43af345e8d.png)
 - 进入`zwiftoffline`目录，双击`zoffline_1.0.140279.exe`，运行 zoffline。
   - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/029bd1af360095a4a279b52c822cd5c7.png)
-- 启动原版 Zwift 程序，点击 Start Zwfit 即可开始骑行，**如果显示的页面还是原来 Zwift 的登录页面，看看是不是开了代理，关闭代理再试试**。
+- 启动原版 Zwift 程序，**如果显示的页面还是原来 Zwift 的登录页面，看看是不是开了代理，关闭代理再试试**。
   - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/e577c5169d652b1ae201a337a0d292f8.png)
+- 下图是官方原版登录界面，**如果显示这个页面说明配置失败**：
+  - ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/19/d8c93c7c78d2f33555bed4a3be9d671f.png)
+- 将输入法切换为微软英文输入法，点击`Start Zwift`即可开始游戏。如果是搜狗输入法将会卡在登录页面。
 
 ## 获取个人原来的 Zwift 资料信息
 
@@ -53,7 +59,7 @@ seo:
 
 ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/d8024be9518e5a262538aa5d48c7fbb0.png)
 
-授权回调域：launcher.zwift.com
+其中授权回调域填写：launcher.zwift.com
 
 申请完成后会得到下面的信息：
 
@@ -76,3 +82,13 @@ seo:
 ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/15/f18d29b2d3e548bf2fe0878d54b2f45f.png)
 
 > 注意哦，不是运行目录下的`zwiftoffline\storage\1\customworkouts`哦，开始我自作聪明把课程放到这个目录下，结果发现上传不了，后来才发现是放错了。
+
+## 常见问题
+
+### 卡在蓝色登录界面
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/20/03f08f3fa8d593d33b38647a46f22341.png)
+
+进程管理中关闭Zwift，输入法需要切换为微软英文输入法重新登录：
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/20/48a6263e5ffe475ec5753b13cffd2ec1.png)
