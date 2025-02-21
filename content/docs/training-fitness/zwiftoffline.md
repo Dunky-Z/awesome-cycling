@@ -92,3 +92,7 @@ seo:
 进程管理中关闭Zwift，输入法需要切换为微软英文输入法重新登录：
 
 ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/20/48a6263e5ffe475ec5753b13cffd2ec1.png)
+
+### 配置Zwiftoffline后无法更新Zwift
+
+因为`configure_client.bat`会修改Hosts文件，导致无法连接到Zwift服务器，所以在更新Zwift时需要先关闭`zoffline`，然后再更新。可以进入`zwiftoffline/zoffline-helper`目录，右键点击`disable_zoffline.bat`，选择以管理员身份运行，可以清除网络配置，然后再打开Zwift开启更新。
