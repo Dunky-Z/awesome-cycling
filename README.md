@@ -50,6 +50,7 @@
 - [mywindsock](https://mywindsock.com/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在 Strava 活动备注中提供活动的天气报告，最重要的是风向的影响，也可通过网页提前预估路书的风向，付费获得更多功能。
 - [Riduck](https://riduck.com/)  - [ :cn: ] Strava 增强工具 | 数据分析平台，绑定后自动在 Strava 活动备注中提供活动的功率心理报告，也可通过网页进行数据综合分析，数据全面度低于 Intervals.icu，但其估计的 FTP,VO2MAX 更具指导意义。
 - [klimat](https://klimat.app/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在 Strava 活动备注中提供活动的天气报告，只能免费 90 个活动。
+- [Strava Statistics](https://github.com/robiningelbrecht/strava-statistics)   - [ :en: ]  Strava-statistics 是一个自托管工具，利用 Strava 数据生成个人运动统计，支持 Docker 部署，提供丰富的可视化分析。
 
 ## 数据分析与可视化（Data Analysis & Visualization）
 
