@@ -35,6 +35,7 @@
 - [Pink Bike](http://www.pinkbike.com/) - 自行车新闻和评论。
 - [LanterneRouge](https://lanternerouge.com/) - 自行车新闻和评论，根据大环赛爬坡表现对车手的 W/Kg 进行估计。
 - [Tiz-Cycling](https://tiz-cycling.tv/) - 收录了自行车赛事直播回放，包括各大环赛的回放。
+- [Cycling Stream](https://cyclingstream.com/) - 收录了自行车赛事直播回放，同时还有直播实况。
 
 ## 赛事与数据跟踪（Race & Data Tracking）
 
