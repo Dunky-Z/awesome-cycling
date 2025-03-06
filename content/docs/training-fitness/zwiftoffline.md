@@ -73,6 +73,16 @@ seo:
 
 ![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/09/2457689c2493d63ffa77e465948d3d84.png)
 
+右击管理员运行`zoffline-helper/disable_zoffline.bat`，这一步把hosts的配置都清除。
+
+命令行里运行`zoffline-helper/strava_auth.exe --client-id CLIENT_ID --client-secret CLIENT_SECRET`，把CLIENT_ID和CLIENT_SECRET替换成你的strava应用的client id和client secret。
+
+浏览器打开`localhost:8000`授权访问。
+
+把目录中生成的`strava_token.txt`移动到目录`storage/1`下。
+
+右击管理员运行`zoffline-helper/configure_client.bat`，重新配置hosts。
+
 ## 上传训练课程
 
 虽然Zwift有很多训练课程，但是我还是习惯在Intervals ICU上创建好自己的课程，然后上传到Zwift。虽然Intervals ICU上的课程可以直接同步到Zwift，但是单机版的没法同步这些课程，所以只能手动上传。
