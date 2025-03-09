@@ -63,6 +63,7 @@
 - [Sanluca](https://sanluca.cc/) - [ :cn: ] 生成大环赛级别的海拔爬升图和路线图，免费支持上传自己的 GPX 路书文件。
 - [Tapiriik](https://tapiriik.com/) - [ :cn: ] 一个用于各种平台之间同步运动数据的工具。
 - [ZwiftHub](https://zwifthub.com/) - [ :cn: ] ZwiftHub 可让用于跟踪已经获得的 Zwift 路线徽章。它还提供了一个灵活的界面，用于按世界、地图时间表、距离等过滤路线。
+- [Running Page](https://github.com/yihong0618/running_page) - [ :cn: ] 一个用于生成跑步数据的可视化页面，可以导入 Strava 数据，生成跑步数据的可视化页面。
 
 ## 训练与健康管理（Training & Fitness）
 

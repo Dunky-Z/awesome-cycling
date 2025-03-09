@@ -93,6 +93,8 @@ seo:
 
 > 注意哦，不是运行目录下的`zwiftoffline\storage\1\customworkouts`哦，开始我自作聪明把课程放到这个目录下，结果发现上传不了，后来才发现是放错了。
 
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/02/15/edd5d0ab56c733e794d196838851dfe3.png)
+
 ## 常见问题
 
 ### 卡在蓝色登录界面
