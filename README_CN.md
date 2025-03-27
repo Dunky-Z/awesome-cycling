@@ -96,3 +96,4 @@
 - [GearCalculator](https://gear-calculator.com/) - [ :cn: ] 一个用于计算自行车变速比、齿轮比和传动比的网站。通过输入自行车的齿盘、飞轮齿数、轮胎尺寸等参数，骑行者可以直观地看到不同齿轮组合下的速度、踏频、以及每次踏动的距离。
 - [ZwifterBikes](https://zwifterbikes.web.app/) - [ :cn: ] 一个查询 Zwift 游戏中自行车的数据的网站，可以查询自行车的重量、空气动力学系数等信息。设定个人体能数据后，可以计算出不同自行车在不同地图中的性能表现。
 - [自行车计算器](https://pan.baidu.com/s/1gdmoQCr) - [ :cn: ]  一个 Windows 应用程序，用以计算齿比和辐条长度等，内置有常用传动套件、外胎的数据库，简单易用，更直观地看到不同齿轮组合下的速度、踏频，国内论坛 77bike 的大佬制作。
+- [vpower](https://github.com/oldnapalm/vpower) - [ :cn: ] ANT+ 虚拟功率计项目，适用于自行车涡轮训练器，支持多种训练器和设备，提供虚拟功率计算和广播功能。

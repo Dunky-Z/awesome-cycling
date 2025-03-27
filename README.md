@@ -92,3 +92,4 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [GearCalculator](https://gear-calculator.com/) - Calculator for bicycle gear ratios and transmission ratios.
 - [ZwifterBikes](https://zwifterbikes.web.app/) - Database for Zwift in-game bicycle specifications.
 - [Bicycle Calculator](https://pan.baidu.com/s/1gdmoQCr) - Windows application for calculating gear ratios and spoke lengths.
+- [vpower](https://github.com/oldnapalm/vpower) - ANT+ Virtual Power Meter project for bicycle turbo trainers, supporting various trainers and devices, providing virtual power calculation and broadcasting functionality.
