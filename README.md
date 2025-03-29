@@ -72,6 +72,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [Bbiketerra](https://biketerra.com/) - Indoor virtual cycling training website.
 - [Indievelo](https://indievelo.com/) - Indoor cycling platform with unique weather system.
 - [Auuki](https://github.com/dvmarinoff/Auuki) - Open-source cycling training tool with ANT+ device support.
+- [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and ride custom routes in Zwift, enhancing your indoor cycling experience.
 
 ## Routes & Navigation
 
