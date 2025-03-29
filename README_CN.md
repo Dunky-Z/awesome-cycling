@@ -64,13 +64,14 @@
 - [Tapiriik](https://tapiriik.com/) - [ :cn: ] 一个用于各种平台之间同步运动数据的工具。
 - [ZwiftHub](https://zwifthub.com/) - [ :cn: ] ZwiftHub 可让用于跟踪已经获得的 Zwift 路线徽章。它还提供了一个灵活的界面，用于按世界、地图时间表、距离等过滤路线。
 - [Running Page](https://github.com/yihong0618/running_page) - [ :cn: ] 一个用于生成跑步数据的可视化页面，可以导入 Strava 数据，生成跑步数据的可视化页面。
+
 ## 训练与健康管理（Training & Fitness）
 
 - [BikeLAB 单车实验室](https://bikelab.cn/ai-bike-fitting/) - [ :cn: ] 基于人工智能的 Fitting 工具。
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - [ :cn: ] 一个极其专业的运动员管理训练分析的开源本地工具，可自定义程度极高，可以自动导入 Strava 等平台的轨迹，还可以连接室内骑行台进行训练。
 - [Zwift](https://www.zwift.com/) - [ :cn: :moneybag: ] 室内骑行平台，可以通过连接智能骑行台进行训练，提供了虚拟世界的骑行体验。
 - [ZwiftOffline](https://github.com/zoffline/zwift-offline) - 离线版 Zwift，社区自制的 Zwift 的 server 端，可以在没有网络的情况下进行 Zwift 课程或路线训练，多平台支持。
-- [Zoffline-CN-Tool](https://github.com/kanhao100/zoffline-cn-tool)  - [ :cn: ] Zoffline-CN-Tool 是一个用于管理和切换 Zwift 官方服务器与社区服务器的图形化工具。它提供了一个简单的界面来帮助用户完成 Zoffline 社区服 在大陆地区特殊网络环境的相关的配置任务 [ 本地反代+自签证书 ]。
+- [Zoffline-CN-Tool](https://github.com/kanhao100/zoffline-cn-tool)  - [ :cn: ] Zoffline-CN-Tool 是一个用于管理和切换 Zwift 官方服务器与社区服务器的图形化工具。它提供了一个简单的界面来帮助用户完成 Zoffline 社区服 在大陆地区特殊网络环境的相关的配置任务 [ 本地反代 + 自签证书 ]。
 - [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift 的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
 - [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的 gpx 路书文献生成三维地形画面，需要连接功率骑行台
@@ -81,7 +82,7 @@
 ## 路线与导航工具（Routes & Navigation）
 
 - [Komoot](https://www.komoot.com/) - [ :en: :moneybag: ] 专业的骑行路书规划编辑平台，优秀的路径规划，多平台支持，但国内部分地图路网较旧。
-- [GPX Studio](https://gpx.studio/) - 免费的在线GPX文件编辑器，具有高级路线规划、文件处理工具和3D可视化功能。
+- [GPX Studio](https://gpx.studio/) - 免费的在线 GPX 文件编辑器，具有高级路线规划、文件处理工具和 3D 可视化功能。
 - [IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - [ :cn: ] IGPSPORT 骑行数据导入行者工具。
 - [xingzhe-export-gpx](https://github.com/weaming/xingzhe-export-gpx) - [ :cn: ] 将行者骑行数据批量导出为 GPX 格式。
 - [GOTOES](https://gotoes.org/) - [ :cn: ] GPX、FIT、TCX 轨迹文件编辑工具。
