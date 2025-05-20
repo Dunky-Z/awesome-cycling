@@ -79,6 +79,10 @@ seo:
 
 浏览器打开`localhost:8000`授权访问。
 
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/05/18/4b0dbbd3bd2dd82b1c6da8327e494ea3.png)
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/05/18/05c02cfd9cd98aaf1e198d2f99b58f5a.png)
+
 把目录中生成的`strava_token.txt`移动到目录`storage/1`下。
 
 右击管理员运行`zoffline-helper/configure_client.bat`，重新配置hosts。
@@ -108,3 +112,6 @@ seo:
 ### 配置Zwiftoffline后无法更新Zwift
 
 因为`configure_client.bat`会修改Hosts文件，导致无法连接到Zwift服务器，所以在更新Zwift时需要先关闭`zoffline`，然后再更新。可以进入`zwiftoffline/zoffline-helper`目录，右键点击`disable_zoffline.bat`，选择以管理员身份运行，可以清除网络配置，然后再打开Zwift开启更新。
+
+### 无法自动上传活动到Strava
+

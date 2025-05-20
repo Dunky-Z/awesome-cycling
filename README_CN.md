@@ -78,6 +78,7 @@
 - [Indievelo](https://indievelo.com/) - [ :cn: ] 室内骑行平台，有独特的天气系统，风速风向都会影响骑行表现，目前可免费使用。
 - [Auuki](https://github.com/dvmarinoff/Auuki) - [ :cn: ] 一个用于自行车训练的开源工具，可以通过连接 ANT+ 设备进行训练。
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - [ :cn: ] 在 Zwift 中构建和骑行自定义路线，提升您的室内骑行体验。
+- [zwo-editor](https://github.com/breiko83/zwo-editor) - [ :cn: ] 一个用于编辑 Zwift 训练课程的工具。
 
 ## 路线与导航工具（Routes & Navigation）
 
