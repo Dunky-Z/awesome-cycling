@@ -54,6 +54,7 @@
 - [klimat](https://klimat.app/)  - [ :en: :moneybag: ] Strava 增强工具 | 风向预测平台，绑定后自动在 Strava 活动备注中提供活动的天气报告，只能免费 90 个活动。
 - [Strava Statistics](https://github.com/robiningelbrecht/strava-statistics)   - [ :cn: ]  Strava-statistics 是一个自托管工具，利用 Strava 数据生成个人运动统计，支持 Docker 部署，提供丰富的可视化分析。
 - [MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - [ :cn: ] 一个用于将 MyWhoosh 数据同步到 Garmin Connect 的工具。
+- [Strava integration for Home Assistant](https://github.com/craibo/ha_strava) - [ :cn: ] 一个用于将 Strava 数据集成到 Home Assistant 的工具。
 
 ## 数据分析与可视化（Data Analysis & Visualization）
 

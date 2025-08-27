@@ -49,6 +49,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [klimat](https://klimat.app/) - Strava enhancement tool for weather reporting.
 - [Strava Statistics](https://github.com/robiningelbrecht/strava-statistics) - Self-hosted tool generating personal activity statistics using Strava data.
 - [MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - Tool for syncing MyWhoosh data to Garmin Connect.
+- [Strava integration for Home Assistant](https://github.com/craibo/ha_strava) - Tool for syncing Strava data to Home Assistant.
 
 ## Data Analysis & Visualization
 
