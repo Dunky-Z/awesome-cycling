@@ -73,6 +73,7 @@
 - [Zwift](https://www.zwift.com/) - [ :cn: :moneybag: ] 室内骑行平台，可以通过连接智能骑行台进行训练，提供了虚拟世界的骑行体验。
 - [ZwiftOffline](https://github.com/zoffline/zwift-offline) - 离线版 Zwift，社区自制的 Zwift 的 server 端，可以在没有网络的情况下进行 Zwift 课程或路线训练，多平台支持。
 - [Zoffline-CN-Tool](https://github.com/kanhao100/zoffline-cn-tool)  - [ :cn: ] Zoffline-CN-Tool 是一个用于管理和切换 Zwift 官方服务器与社区服务器的图形化工具。它提供了一个简单的界面来帮助用户完成 Zoffline 社区服 在大陆地区特殊网络环境的相关的配置任务 [ 本地反代 + 自签证书 ]。
+- [netbrain/zwift](https://github.com/netbrain/zwift) - 一个用于在 Linux 系统上运行 Zwift 的 Docker 镜像工具，使用 Wine 模拟 Windows 环境，支持智能骑行台和蓝牙设备连接，配合 Zwift Companion 应用使用。
 - [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift 的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
 - [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的 gpx 路书文献生成三维地形画面，需要连接功率骑行台

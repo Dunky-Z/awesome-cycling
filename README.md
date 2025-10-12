@@ -68,6 +68,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [Zwift](https://www.zwift.com/) - Indoor cycling platform with virtual world experience.
 - [ZwiftOffline](https://github.com/zoffline/zwift-offline) - Offline version of Zwift for training without internet connection.
 - [Zoffline-CN-Tool](https://github.com/kanhao100/zoffline-cn-tool) - GUI tool for managing Zwift official and community servers.
+- [netbrain/zwift](https://github.com/netbrain/zwift) - Docker image for running Zwift on Linux systems using Wine to emulate Windows environment, supports smart trainers and Bluetooth devices with Zwift Companion app.
 - [Source4Zwift](https://source4zwift.com/) - Zwift functionality extension tool.
 - [TrainerRoad](https://www.trainerroad.com/) - Indoor cycling platform with professional training plans.
 - [Bbiketerra](https://biketerra.com/) - Indoor virtual cycling training website.
