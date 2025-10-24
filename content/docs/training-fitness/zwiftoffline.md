@@ -113,5 +113,23 @@ seo:
 
 因为`configure_client.bat`会修改Hosts文件，导致无法连接到Zwift服务器，所以在更新Zwift时需要先关闭`zoffline`，然后再更新。可以进入`zwiftoffline/zoffline-helper`目录，右键点击`disable_zoffline.bat`，选择以管理员身份运行，可以清除网络配置，然后再打开Zwift开启更新。
 
+### 更新是出现Z117错误，无法更新游戏
+
+官方给出的原因和解决办法很多，但是都没能解决。你可以先使用我提供的方式看能否解决，如果不行再参考官方提供的方式。
+
+方法一：
+
+1. 如果你有代理（梯子），打开代理，更新订阅，更换节点后卸载重装Zwift。
+
+方式二：
+
+1. 如果你没有代理，你可以尝试换个网络环境，比如电脑连接手机热点来下载更新。
+
+前两种方式参考讨论：[Z117 在 602 行 - 错误和支持 - Zwift 论坛 --- Z117 at Line 602 - Bugs and Support - Zwift Forums](https://forums.zwift.com/t/z117-at-line-602/573404)
+
+方式三，官方解决方案：
+
+![](https://picbed-1311007548.cos.ap-shanghai.myqcloud.com/markdown_picbed/img//2025/10/24/72ba6a993d30a1d2ba6b6c36a9e603ad.png)
+
 ### 无法自动上传活动到Strava
 
