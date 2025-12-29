@@ -81,6 +81,7 @@
 - [Auuki](https://github.com/dvmarinoff/Auuki) - [ :cn: ] 一个用于自行车训练的开源工具，可以通过连接 ANT+ 设备进行训练。
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - [ :cn: ] 在 Zwift 中构建和骑行自定义路线，提升您的室内骑行体验。
 - [zwo-editor](https://github.com/breiko83/zwo-editor) - [ :cn: ] 一个用于编辑 Zwift 训练课程的工具。
+- [BikeControl](https://github.com/jonasbark/swiftcontrol) - [ :cn: :moneybag: ] 原名 SwiftControl，使用 Zwift Click、Zwift Play、Shimano Di2 等控制器在任何训练应用中实现虚拟换挡、转向导航、调整训练强度等功能，支持 MyWhoosh、Zwift、Rouvy 等多个平台。
 
 ## 路线与导航工具（Routes & Navigation）
 
