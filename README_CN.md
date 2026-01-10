@@ -83,6 +83,7 @@
 - [zwo-editor](https://github.com/breiko83/zwo-editor) - [ :cn: ] 一个用于编辑 Zwift 训练课程的工具。
 - [BikeControl](https://github.com/jonasbark/swiftcontrol) - [ :cn: :moneybag: ] 原名 SwiftControl，使用 Zwift Click、Zwift Play、Shimano Di2 等控制器在任何训练应用中实现虚拟换挡、转向导航、调整训练强度等功能，支持 MyWhoosh、Zwift、Rouvy 等多个平台。
 - [SmartScaleConnect](https://github.com/AlexxIT/SmartScaleConnect) - [ :cn: ] 用于在不同生态系统之间同步智能体重秤数据的应用程序，支持 Garmin Connect、Fitbit、Xiaomi（Mi Fitness、Zepp Life）、Home Assistant 等多个平台，可以同步体重、BMI、体脂率、肌肉量等身体成分数据。
+- [garmin-weight-sync](https://github.com/XiaoSiHwang/garmin-weight-sync) - [ :cn: ] 将小米体重秤数据同步到 Garmin Connect 的工具，支持小米运动健康中的体重数据自动同步到 Garmin Connect（支持中国区和国际区），支持 Docker 部署和定时任务。
 
 ## 路线与导航工具（Routes & Navigation）
 
