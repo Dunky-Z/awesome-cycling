@@ -76,7 +76,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [Auuki](https://github.com/dvmarinoff/Auuki) - Open-source cycling training tool with ANT+ device support.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and ride custom routes in Zwift, enhancing your indoor cycling experience.
 - [zwo-editor](https://github.com/breiko83/zwo-editor) - Tool for editing Zwift training courses.
-- [BikeControl](https://github.com/jonasbark/swiftcontrol) - Formerly SwiftControl, use Zwift Click, Zwift Play, Shimano Di2 and other controllers to enable virtual shifting, steering navigation, training intensity adjustment in any training app. Supports MyWhoosh, Zwift, Rouvy and more.
+- [SmartScaleConnect](https://github.com/AlexxIT/SmartScaleConnect) - Application for syncing smart scale data between different ecosystems, supports Garmin Connect, Fitbit, Xiaomi (Mi Fitness, Zepp Life), Home Assistant and more platforms. Can sync weight, BMI, body fat percentage, muscle mass and other body composition data.
 
 ## Routes & Navigation
 
