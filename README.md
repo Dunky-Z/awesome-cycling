@@ -89,6 +89,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - Open-source GPS bike computer based on ESP32S3R8.
 - [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - Open-source GPS bike computer.
 - [Windy](https://windy.app/) - Weather forecast and wind prediction tool.
+- [BikeCompanion](https://bikecompanion.app/) - Cycling GPS app and route planner, with navigation, offline maps, and ride tracking
 
 ## Equipment & Components
 
