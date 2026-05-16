@@ -175,32 +175,22 @@ seo:
 
 ### 配置 Garmin Connect
 
-Garmin Connect 可以同步你的 Zwift 活动数据到 Garmin 设备。
+Garmin Connect 可以把 Zwift 活动同步到你的 Garmin 账号与设备。
 
-#### 配置账号
+#### 重要说明（认证方式已变更）
 
-1. **PC 端配置**
-   - 在 ZwiftOffline 登录窗口点击"Settings - Garmin"按钮
-   - 输入你的 Garmin Connect 账号和密码
+Garmin 调整了认证接口后，通过 ZwiftOffline 启动器或网页用**账号密码**登录 Garmin Connect 的方式已不再可用；依赖旧版登录流程的 [garth](https://github.com/matin/garth) 库也无法再完成该登录，详见 [garth 讨论 #222](https://github.com/matin/garth/discussions/222)。当前需按 [zoffline 官方文档 Step 4](https://github.com/zoffline/zwift-offline#step-4-optional-upload-activities) 使用外部脚本获取 token 文件。
 
-2. **安卓端配置**
-   - 访问 `https://<zoffline_ip>/garmin/zoffline/`
-   - 输入你的 Garmin Connect 账号和密码
-   - 将`<zoffline_ip>`替换为运行 zoffline 的电脑 IP 地址
+#### 获取 token 并放到 zoffline
 
-#### 多因素认证（MFA）
+1. 使用官方 README 中指向的脚本完成登录并保存 token（脚本链接见 [coleman8er 的 Gist](https://gist.github.com/coleman8er/5c8e192d2aa3c8a3a6220c5702e8a5e6)）。按 Gist 说明安装依赖并运行；若脚本或依赖有更新，以 Gist 与 [zoffline 仓库](https://github.com/zoffline/zwift-offline) 说明为准。
+2. 脚本会在用户目录下生成 Garmin 相关 token，典型位置为：
+   - Linux / macOS：`~/.garth`
+   - Windows：`C:\Users\<你的用户名>\.garth`
+3. 在 zoffline 的**该 Zwift 档案**目录下创建 `garth` 子目录（若不存在）：`storage/1/garth`（多用户时为 `storage/<档案 ID>/garth`）。
+4. 将上述目录中的 **`oauth1_token.json`** 与 **`oauth2_token.json`** 复制到 `storage/1/garth/`（不要沿用旧文档里「把整个 `garth` 文件夹丢到 `storage/1` 根下」的做法；token 应位于 `storage/1/garth/` 内）。
 
-如果你的账号启用了多因素认证，需要额外配置：
-
-1. **使用 Python 脚本（推荐）**
-   - 运行`garmin_auth.py`脚本
-   - 脚本会在运行目录下生成`garth`文件夹
-   - 将`garth`文件夹移动到`storage/1`目录下
-
-2. **使用 Windows 可执行文件**
-   - 如果未安装 Python，可以从[zoffline-helper Release 页面](https://github.com/oldnapalm/zoffline-helper/releases/latest)下载`garmin_auth.exe`
-   - 运行`garmin_auth.exe`，同样会生成`garth`文件夹
-   - 将`garth`文件夹移动到`storage/1`目录下
+完成以上步骤后，保存活动时 zoffline 即可使用这些 token 向 Garmin Connect 上传；若 Garmin 再次变更认证，请关注 zoffline 与 Gist 的更新说明。
 
 ### 配置 Intervals.icu
 
