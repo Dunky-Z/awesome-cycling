@@ -64,6 +64,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 
 ## Training & Fitness
 
+- [VeloVostra](https://velovostra.com/) - Strava-adaptive cycling training planner. Generates structured base, build, and peak plans around the rider's schedule, then reshapes the week ahead based on actual Strava activity. Exports to Zwift (.zwo), Garmin and Wahoo (.fit), and calendar.
 - [BikeLAB](https://bikelab.cn/ai-bike-fitting/) - AI-based bike fitting tool.
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - Professional open-source training analysis tool.
 - [Zwift](https://www.zwift.com/) - Indoor cycling platform with virtual world experience.
