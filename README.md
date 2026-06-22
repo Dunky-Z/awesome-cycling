@@ -82,6 +82,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 
 ## Routes & Navigation
 
+- [Radatlas Österreich](https://radatlas.at) - Free, bilingual atlas of Austria's named cycle routes with interactive maps, elevation profiles, and GPX/TCX downloads.
 - [Komoot](https://www.komoot.com/) - Professional route planning and editing platform.
 - [GPX Studio](https://gpx.studio/) - Free online GPX file editor with advanced route planning, file processing tools, and 3D visualization capabilities.
 - [IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - IGPSPORT cycling data import tool.
