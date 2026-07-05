@@ -66,6 +66,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 
 - [BikeLAB](https://bikelab.cn/ai-bike-fitting/) - AI-based bike fitting tool.
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - Professional open-source training analysis tool.
+- [Montis.icu Coach](https://www.cliveking.net/) - Open-source AI endurance coach based on Intervals.icu, supports ChatGPT App, Claude MCP, Gemini App and Cursor for weekly reports, data quality audits and training analysis.
 - [Zwift](https://www.zwift.com/) - Indoor cycling platform with virtual world experience.
 - [ZwiftOffline](https://github.com/zoffline/zwift-offline) - Offline version of Zwift for training without internet connection.
 - [Zoffline-CN-Tool](https://github.com/kanhao100/zoffline-cn-tool) - GUI tool for managing Zwift official and community servers.
