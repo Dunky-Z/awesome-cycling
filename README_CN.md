@@ -55,6 +55,7 @@
 - [Strava Statistics](https://github.com/robiningelbrecht/strava-statistics)   - [ :cn: ]  Strava-statistics 是一个自托管工具，利用 Strava 数据生成个人运动统计，支持 Docker 部署，提供丰富的可视化分析。
 - [MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - [ :cn: ] 一个用于将 MyWhoosh 数据同步到 Garmin Connect 的工具。
 - [Strava integration for Home Assistant](https://github.com/craibo/ha_strava) - [ :cn: ] 一个用于将 Strava 数据集成到 Home Assistant 的工具。
+- [ActivityFix](https://www.activityfix.com/user_cp) - [ :cn: ] 根据自定义规则自动更新 Strava 活动，可设置活动类型、装备、标题、描述、通勤标记等。
 
 ## 数据分析与可视化（Data Analysis & Visualization）
 

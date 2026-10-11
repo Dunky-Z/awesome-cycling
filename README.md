@@ -50,6 +50,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [Strava Statistics](https://github.com/robiningelbrecht/strava-statistics) - Self-hosted tool generating personal activity statistics using Strava data.
 - [MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - Tool for syncing MyWhoosh data to Garmin Connect.
 - [Strava integration for Home Assistant](https://github.com/craibo/ha_strava) - Tool for syncing Strava data to Home Assistant.
+- [ActivityFix](https://www.activityfix.com/user_cp) - Automatically update Strava activities with custom rules for activity type, gear, title, description, commute flags, and more.
 
 ## Data Analysis & Visualization
 
