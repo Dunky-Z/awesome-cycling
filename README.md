@@ -57,6 +57,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [Gear Automator](https://www.gearaut.com/heatmap) - Tool for generating cycling heatmaps from Strava data.
 - [Intervals.icu](https://intervals.icu/) - Free training analysis tool with Strava data import capabilities.
 - [VeloViewer](https://veloviewer.com/) - Comprehensive Strava data analysis platform.
+- [MTL Explorer](https://github.com/mindalyze-com/mtl-explorer) - Open-source, self-hosted GPS track explorer for activity maps, statistics, filtering, heatmaps, route planning, and photo-linked trail history.
 - [Sanluca](https://sanluca.cc/) - Generate Grand Tour-style elevation profiles and route maps.
 - [Tapiriik](https://tapiriik.com/) - Tool for syncing activities between various platforms.
 - [ZwiftHub](https://zwifthub.com/) - Track Zwift route badges and filter routes by world, map schedule, distance, etc.
