@@ -92,6 +92,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [GOTOES](https://gotoes.org/) - GPX, FIT, TCX track file editor.
 - [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - Open-source GPS bike computer based on ESP32S3R8.
 - [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - Open-source GPS bike computer.
+- [BuzzBike](https://github.com/CrisAlva1414/BuzzBike) - Android bike computer whose calorie estimates come with the model used and its error margin; tracks component wear and exports rides to your own endpoint (local-first, no account).
 - [Windy](https://windy.app/) - Weather forecast and wind prediction tool.
 
 ## Equipment & Components
