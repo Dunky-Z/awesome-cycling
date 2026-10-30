@@ -99,6 +99,7 @@
 - [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - 基于 C 语言开发，采用 ESP32S3R8 板的开源 GPS 自行车码表。
 - [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - 开源 GPS 自行车码表。
 - [BuzzBike](https://github.com/CrisAlva1414/BuzzBike) - Android 骑行码表，卡路里估算附带所用模型与误差范围；追踪零件磨损并把骑行数据推送到你自己的服务（本地优先，无需账号）。
+- [Pedalah](https://pedalah.com/) - [ :en: ] 新加坡（含乌敏岛）免费骑行路线规划，无需登录；可避开红绿灯和右转，支持环线与爬坡路线，提供 34 条精选路线 GPX 下载。
 - [Windy](https://windy.app/) - [ :cn: ] 一个天气预报和风向预测工具，可以查看全球范围内的风向和风速，适合长途骑行前根据风向规划路线。
 
 ## 设备与零配件（Equipment & Components）
