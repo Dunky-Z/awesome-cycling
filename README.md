@@ -77,6 +77,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [TrainerRoad](https://www.trainerroad.com/) - Indoor cycling platform with professional training plans.
 - [Bbiketerra](https://biketerra.com/) - Indoor virtual cycling training website.
 - [Indievelo](https://indievelo.com/) - Indoor cycling platform with unique weather system.
+- [Tour du Pain](https://tourdupain.app/) - Browser-based indoor cycling game for smart trainers with voice chat while you ride, runs in Chrome or Edge.
 - [Auuki](https://github.com/dvmarinoff/Auuki) - Open-source cycling training tool with ANT+ device support.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and ride custom routes in Zwift, enhancing your indoor cycling experience.
 - [zwo-editor](https://github.com/breiko83/zwo-editor) - Tool for editing Zwift training courses.
