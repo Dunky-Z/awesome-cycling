@@ -90,6 +90,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - IGPSPORT cycling data import tool.
 - [xingzhe-export-gpx](https://github.com/weaming/xingzhe-export-gpx) - Batch export tool for cycling data to GPX format.
 - [GOTOES](https://gotoes.org/) - GPX, FIT, TCX track file editor.
+- [KADALTO](https://kadalto.com/) - Browser-based FIT, GPX, and TCX ride-file tools for inspecting, trimming, merging, and converting supported files, with a visual editor.
 - [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - Open-source GPS bike computer based on ESP32S3R8.
 - [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - Open-source GPS bike computer.
 - [BuzzBike](https://github.com/CrisAlva1414/BuzzBike) - Android bike computer whose calorie estimates come with the model used and its error margin; tracks component wear and exports rides to your own endpoint (local-first, no account).
