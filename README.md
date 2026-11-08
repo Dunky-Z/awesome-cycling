@@ -99,6 +99,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 
 - [Compare the Watts](https://compare-the-watts.com/) - Tool for comparing power meter data.
 - [BikeInsights](https://bikeinsights.com) - Comprehensive bicycle information database.
+- [BikeSize](https://bike-size.com/) - Free bicycle selection guides, brand size charts and frame-sizing calculators; educational guidance, not a full bike fit.
 - [BicycleRollingResistance](https://www.bicyclerollingresistance.com/) - Database for bicycle tire rolling resistance, puncture protection, and weight.
 - [GearCalculator](https://gear-calculator.com/) - Calculator for bicycle gear ratios and transmission ratios.
 - [ZwifterBikes](https://zwifterbikes.web.app/) - Database for Zwift in-game bicycle specifications.
