@@ -66,6 +66,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 
 ## Training & Fitness
 
+- [Calculation Hub Cycling Power Calculator](https://calculation-hub.com/fitness/cycling-power) - Free FTP estimates from 20-minute average power and cycling power-zone calculations; no account required, not a clinical assessment.
 - [BikeLAB](https://bikelab.cn/ai-bike-fitting/) - AI-based bike fitting tool.
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - Professional open-source training analysis tool.
 - [Montis.icu Coach](https://www.cliveking.net/) - Open-source AI endurance coach based on Intervals.icu, supports ChatGPT App, Claude MCP, Gemini App and Cursor for weekly reports, data quality audits and training analysis.

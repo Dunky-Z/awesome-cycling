@@ -71,6 +71,7 @@
 
 ## 训练与健康管理（Training & Fitness）
 
+- [Calculation Hub Cycling Power Calculator](https://calculation-hub.com/fitness/cycling-power) - 免费根据20分钟平均功率估算FTP并计算骑行功率区间，无需账号；不是临床评估工具。
 - [BikeLAB 单车实验室](https://bikelab.cn/ai-bike-fitting/) - [ :cn: ] 基于人工智能的 Fitting 工具。
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - [ :cn: ] 一个极其专业的运动员管理训练分析的开源本地工具，可自定义程度极高，可以自动导入 Strava 等平台的轨迹，还可以连接室内骑行台进行训练。
 - [Montis.icu Coach](https://www.cliveking.net/) - [ :cn: ] 基于 Intervals.icu 的开源 AI 耐力教练，支持 ChatGPT App、Claude MCP、Gemini App 和 Cursor，可生成周报、数据质量审计等训练分析报告。
