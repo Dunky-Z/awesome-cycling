@@ -66,6 +66,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [Cycling Data Lab](https://cyclingdatalab.com/) - Tools and calculators to estimate climb times, plan race pacing from GPX or FIT courses, calculate training zones, and view or crop FIT activity files. Includes a [public REST API and MCP server](https://cyclingdatalab.com/docs).
 ## Training & Fitness
 
+- [Calculation Hub Cycling Power Calculator](https://calculation-hub.com/fitness/cycling-power) - Free FTP estimates from 20-minute average power and cycling power-zone calculations; no account required, not a clinical assessment.
 - [BikeLAB](https://bikelab.cn/ai-bike-fitting/) - AI-based bike fitting tool.
 - [GoldenCheetah](https://github.com/goldencheetah/goldencheetah) - Professional open-source training analysis tool.
 - [Montis.icu Coach](https://www.cliveking.net/) - Open-source AI endurance coach based on Intervals.icu, supports ChatGPT App, Claude MCP, Gemini App and Cursor for weekly reports, data quality audits and training analysis.
