@@ -96,6 +96,7 @@
 - [IGPSPORT2Xingzhe](https://github.com/kvnZero/IGPSPORT2Xingzhe) - [ :cn: ] IGPSPORT 骑行数据导入行者工具。
 - [xingzhe-export-gpx](https://github.com/weaming/xingzhe-export-gpx) - [ :cn: ] 将行者骑行数据批量导出为 GPX 格式。
 - [GOTOES](https://gotoes.org/) - [ :cn: ] GPX、FIT、TCX 轨迹文件编辑工具。
+- [FitMerge](https://fitmerge.app/) - 免费的浏览器内工具，把一次骑行、跑步或徒步被拆成的多个 FIT、GPX 或 TCX 文件合并成一个活动；文件不离开你的设备。
 - [EasyGPS](https://github.com/ZhangKeLiang0627/EasyGPS) - 基于 C 语言开发，采用 ESP32S3R8 板的开源 GPS 自行车码表。
 - [X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - 开源 GPS 自行车码表。
 - [BuzzBike](https://github.com/CrisAlva1414/BuzzBike) - Android 骑行码表，卡路里估算附带所用模型与误差范围；追踪零件磨损并把骑行数据推送到你自己的服务（本地优先，无需账号）。
