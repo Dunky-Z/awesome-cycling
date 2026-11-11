@@ -82,6 +82,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [zwo-editor](https://github.com/breiko83/zwo-editor) - Tool for editing Zwift training courses.
 - [SmartScaleConnect](https://github.com/AlexxIT/SmartScaleConnect) - Application for syncing smart scale data between different ecosystems, supports Garmin Connect, Fitbit, Xiaomi (Mi Fitness, Zepp Life), Home Assistant and more platforms. Can sync weight, BMI, body fat percentage, muscle mass and other body composition data.
 - [garmin-weight-sync](https://github.com/XiaoSiHwang/garmin-weight-sync) - Tool for syncing Xiaomi smart scale data to Garmin Connect, automatically syncs weight data from Mi Fitness to Garmin Connect (supports both CN and COM domains), supports Docker deployment and scheduled tasks.
+- [Croissant Ride](https://croissantride.com) - Minimal open-source indoor cycling app: controls FTMS smart trainers and heart-rate straps over Web Bluetooth ([source](https://github.com/Arthurpfz/croissant-ride))
 
 ## Routes & Navigation
 
