@@ -75,6 +75,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [netbrain/zwift](https://github.com/netbrain/zwift) - Docker image for running Zwift on Linux systems using Wine to emulate Windows environment, supports smart trainers and Bluetooth devices with Zwift Companion app.
 - [Source4Zwift](https://source4zwift.com/) - Zwift functionality extension tool.
 - [TrainerRoad](https://www.trainerroad.com/) - Indoor cycling platform with professional training plans.
+- [AdaptCycling](https://www.adaptcycling.com/) - AI cycling coach that builds a training plan from your rides (Garmin, Wahoo, Hammerhead, Polar, Suunto, intervals.icu) and re-plans the week when you miss days, get sick or travel.
 - [Bbiketerra](https://biketerra.com/) - Indoor virtual cycling training website.
 - [Indievelo](https://indievelo.com/) - Indoor cycling platform with unique weather system.
 - [Auuki](https://github.com/dvmarinoff/Auuki) - Open-source cycling training tool with ANT+ device support.
