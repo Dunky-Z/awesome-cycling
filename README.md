@@ -63,7 +63,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [ZwiftHub](https://zwifthub.com/) - Track Zwift route badges and filter routes by world, map schedule, distance, etc.
 - [Running Page](https://github.com/yihong0618/running_page) - Generate visualization pages for running data with Strava import support.
 - [Sport Graph](https://graph.rnnr.io/) - GitHub-like activity graph.
-
+- [Cycling Data Lab](https://cyclingdatalab.com/) - Tools and calculators to estimate climb times, plan race pacing from GPX or FIT courses, calculate training zones, and view or crop FIT activity files. Includes a [public REST API and MCP server](https://cyclingdatalab.com/docs).
 ## Training & Fitness
 
 - [BikeLAB](https://bikelab.cn/ai-bike-fitting/) - AI-based bike fitting tool.
