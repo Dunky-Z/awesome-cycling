@@ -80,6 +80,7 @@
 - [netbrain/zwift](https://github.com/netbrain/zwift) - 一个用于在 Linux 系统上运行 Zwift 的 Docker 镜像工具，使用 Wine 模拟 Windows 环境，支持智能骑行台和蓝牙设备连接，配合 Zwift Companion 应用使用。
 - [Source4Zwift](https://source4zwift.com/) - [ :moneybag: ] Zwift 的功能扩展工具，可以在骑行时查看更多的数据。
 - [TrainerRoad](https://www.trainerroad.com/) - [ :cn: :moneybag: ] 室内骑行平台，提供了专业的训练计划和训练数据分析。
+- [VeloWorkout](https://veloworkout.com/) - [ :moneybag: ] 室内骑行训练应用，提供结构化训练计划、训练课编辑器和训练数据分析，支持智能骑行台 ERG 模式。可用于浏览器、iPhone 和 Android。
 - [Bbiketerra](https://biketerra.com/) - [ :cn: :moneybag: ] 室内虚拟骑行训练网页，可以上传自己的 gpx 路书文献生成三维地形画面，需要连接功率骑行台
 - [Indievelo](https://indievelo.com/) - [ :cn: ] 室内骑行平台，有独特的天气系统，风速风向都会影响骑行表现，目前可免费使用。
 - [Auuki](https://github.com/dvmarinoff/Auuki) - [ :cn: ] 一个用于自行车训练的开源工具，可以通过连接 ANT+ 设备进行训练。
