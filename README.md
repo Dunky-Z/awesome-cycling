@@ -98,6 +98,7 @@ For detailed documentation of some websites and tools, please visit [Welcome to 
 - [BuzzBike](https://github.com/CrisAlva1414/BuzzBike) - Android bike computer whose calorie estimates come with the model used and its error margin; tracks component wear and exports rides to your own endpoint (local-first, no account).
 - [Pedalah](https://pedalah.com/) - Free, no-login cycling route planner for Singapore with loop and hill-climb rides, traffic-light/right-turn avoidance and 34 curated routes with GPX downloads.
 - [Windy](https://windy.app/) - Weather forecast and wind prediction tool.
+- [Altimeter](https://altitude.hertzmc.com/) - Free browser altimeter: approximate elevation from your phone's GPS in feet or meters, plus total climb and descent for the ride; no sign-up.
 
 ## Equipment & Components
 
